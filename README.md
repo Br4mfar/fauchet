@@ -1,0 +1,2 @@
+# fauchet
+Make you rich
